@@ -1,7 +1,7 @@
 package src;
 
 public interface ArithmeticOps {
-    public void Addition(int No1, int No2);
-    public void Substraction(int No1, int No2);
-    public void Multiplication(int No1, int No2);
+    public int Addition(int No1, int No2);
+    public int Substraction(int No1, int No2);
+    public int Multiplication(int No1, int No2);
 }
