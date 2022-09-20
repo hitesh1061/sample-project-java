@@ -18,4 +18,10 @@ public class Operations implements ArithmeticOps{
 
         return Result;
     }
+
+    public int Division(int iNo1, int iNo2){
+        return 0;
+    }
+
+
 }
