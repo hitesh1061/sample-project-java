@@ -16,7 +16,7 @@ public class Operations implements ArithmeticOps{
     public int Multiplication(int No1, int No2){
         int Result = No1 * No2;
 
-        return Result;
+        return Result;//juhygtvfcds
     }
 
     public int Division(int iNo1, int iNo2){
