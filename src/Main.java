@@ -10,9 +10,9 @@ public class Main {
         System.out.println("Addition is = " + iRet);
 
         iRet = obj.Substraction(21,11);
-        System.out.println("Addition is = " + iRet);
+        System.out.println("Substraction is = " + iRet);
 
         iRet = obj.Multiplication(11,10);
-        System.out.println("Addition is = " + iRet);
+        System.out.println("Multiplication is = " + iRet);
     }
 }
